@@ -1,0 +1,1 @@
+Hi I made this C++ plus in I think 6th grade while in class I had my laptop and I was done so I wrote some of the code in class and at home I coded on my computer by transfering the files to the computer with a usb.
